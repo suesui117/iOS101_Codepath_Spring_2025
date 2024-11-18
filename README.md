@@ -1,7 +1,7 @@
 # iOS101_Codepath_Spring_2025
 
 - Improve the UI by using different fonts/colors/background
-- GIF: <https://imgur.com/a/HohfhW1>
+- GIF: https://i.imgur.com/Lk7u28l.gif
 
 ## App Brainstorming
 
