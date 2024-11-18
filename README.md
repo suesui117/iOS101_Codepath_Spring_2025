@@ -8,16 +8,16 @@
 ### Favorite Apps and Features
 
 - **Countdown App:**
-  1. Scroll button to quickly select countdown duration
-  2. Date selection to pick a target date
+1. Scroll button to quickly select countdown duration
+2. Date selection to pick a target date
   
 - **iMessage:**
-  1. Custom text tone for favorite person
-  2. Ability to hide messages from the main screen
+1. Custom text tone for favorite person
+2. Ability to hide messages from the main screen
   
 - **iMessage:**
-  1. Option to change the background color of the message screen
-  2. Drag and move messages around in the conversation thread
+1. Option to change the background color of the message screen
+2. Drag and move messages around in the conversation thread
 
 ### App Idea: Fridge Tracker
 
